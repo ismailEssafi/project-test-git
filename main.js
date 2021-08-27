@@ -9,5 +9,5 @@ let cardTemplate=`
 </div>
 ` ;
 
-
+let id=1;
 
