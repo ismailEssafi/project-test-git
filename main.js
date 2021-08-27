@@ -9,7 +9,5 @@ let cardTemplate=`
 </div>
 ` ;
 
-for(i=0;i<4;i++){
-    console.log(cardTemplate);
-    document.write(cardTemplate);
-}
+
+
